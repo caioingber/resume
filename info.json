@@ -1,0 +1,23 @@
+{
+    "name": "Caio Ingber",
+    "website": "https://caioingber.github.io/",
+    "linkedin": "https://www.linkedin.com/in/caio-ingber-74b224117/",
+    "github": "https://github.com/caioingber",
+    "email": "caioingber@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Node"
+    ],
+    "otherSkills": [
+        "AJAX",
+        "Agile Methodology",
+        "Problem-solving",
+        "JIRA",
+        "Salesforce"
+    ]
+}
